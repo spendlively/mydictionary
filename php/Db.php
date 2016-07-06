@@ -12,7 +12,7 @@ class Db{
     static public function init(){
 
         if(self::$pdo === null){
-            self::$pdo = new \PDO('mysql:host=127.0.0.1;dbname=mydb;charset=utf8', 'user', 'login');
+            self::$pdo = new \PDO('mysql:host=127.0.0.1;dbname=testdb;charset=utf8', 'user', 'login');
         }
         
         if(self::$pdo instanceof \PDO){

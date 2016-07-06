@@ -20,4 +20,16 @@ define('MY_SOUNDS_USER_TRANSLATE_PATH', MY_SOUNDS_USER_PATH . 'translate/');
 define('MY_SOUNDS_USER_PHRASE_PATH', MY_SOUNDS_USER_PATH . 'phrase/');
 define('MY_SOUNDS_USER_TRPHRASE_PATH', MY_SOUNDS_USER_PATH . 'trphrase/');
 
+
+//define('MY_USER_NAME', 'spendlively');
+//define('MY_ROOT_PATH', dirname(__DIR__));
+//define('MY_PHP_PATH', dirname(__DIR__). '/php/');
+//define('MY_SOUNDS_PATH', '');
+//define('MY_SOUNDS_SILENCE_PATH', '/silence/');
+//define('MY_SOUNDS_USER_PATH', '' . MY_USER_NAME . '/');
+//define('MY_SOUNDS_USER_WORD_PATH', 'words/');
+//define('MY_SOUNDS_USER_TRANSLATE_PATH', 'translate/');
+//define('MY_SOUNDS_USER_PHRASE_PATH', 'phrase/');
+//define('MY_SOUNDS_USER_TRPHRASE_PATH', 'trphrase/');
+
 //var_dump(MY_SOUNDS_PATH);die();
